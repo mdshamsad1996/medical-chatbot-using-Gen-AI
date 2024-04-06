@@ -52,7 +52,7 @@
 ```
 
 ##### LLD Diagram
-[](images\LLD.png)
+![](images\LLD.png)
 
 ##### Implementation Details
 - .env--> add pinecone credentials and openapi credentials
